@@ -1,0 +1,3 @@
+<mod displayName="KisuFaces" unique="KisuFaces" description="Replaces all relationship faces with custom color-coded beta faces." installerSystemVersion="1.0.1.0" hasCustomInstaller="true" dllsBuild="2.5.20">
+    <prerequisite game="GalacticAdventures">KisuFaces.package</prerequisite>
+</mod>
